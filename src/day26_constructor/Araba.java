@@ -27,6 +27,4 @@ public class Araba {
         System.out.println("bu araba max "+ hiz+" yapabilir");
     }
 
-
-
 }

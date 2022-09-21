@@ -13,6 +13,9 @@ public class C02_Arrays {
         sayilar[2]=10; sayilar[0]=5; sayilar[1]=3;
         System.out.println(Arrays.toString(sayilar));
 
+        sayilar[0]=sayilar[0]*-1;
+        System.out.println(sayilar[0]);
+
         String sinifList[]={"Ali","Ahmed","Ayse"};
         System.out.println(Arrays.toString(sinifList));
 
